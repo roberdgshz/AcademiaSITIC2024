@@ -4,7 +4,7 @@ namespace Exercises
 {
     internal class Methods
     {
-        static void Main(string[] args)
+        static void Main3(string[] args)
         {
             int initialStock = 50;
             int quantityToAdd = 20;

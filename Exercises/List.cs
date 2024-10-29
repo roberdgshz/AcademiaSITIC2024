@@ -9,7 +9,7 @@ namespace Exercises
 {
     class Programa
     {
-        static void Main(string[] args) {
+        static void Main4(string[] args) {
             List<People> employeers = new() 
             { 
                 new People

@@ -4,7 +4,7 @@ namespace Exercises
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             string courseName = "Academia SITIC";
             string courseName2 = "Academia SITIC 2";
@@ -14,7 +14,7 @@ namespace Exercises
 
             int? age = null;
 
-            Console.WriteLine(age.Value);
+            //Console.WriteLine(age.Value);
             Console.WriteLine(age.GetValueOrDefault(0));
             
             User user = new User();

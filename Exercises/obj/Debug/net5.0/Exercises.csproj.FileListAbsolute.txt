@@ -1,0 +1,16 @@
+C:\Users\lalo_\Desktop\SITIC\AcademiaSITIC2024\Exercises\bin\Debug\net5.0\Exercises.exe
+C:\Users\lalo_\Desktop\SITIC\AcademiaSITIC2024\Exercises\bin\Debug\net5.0\Exercises.deps.json
+C:\Users\lalo_\Desktop\SITIC\AcademiaSITIC2024\Exercises\bin\Debug\net5.0\Exercises.runtimeconfig.json
+C:\Users\lalo_\Desktop\SITIC\AcademiaSITIC2024\Exercises\bin\Debug\net5.0\Exercises.runtimeconfig.dev.json
+C:\Users\lalo_\Desktop\SITIC\AcademiaSITIC2024\Exercises\bin\Debug\net5.0\Exercises.dll
+C:\Users\lalo_\Desktop\SITIC\AcademiaSITIC2024\Exercises\bin\Debug\net5.0\Exercises.pdb
+C:\Users\lalo_\Desktop\SITIC\AcademiaSITIC2024\Exercises\obj\Debug\net5.0\Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lalo_\Desktop\SITIC\AcademiaSITIC2024\Exercises\obj\Debug\net5.0\Exercises.AssemblyInfoInputs.cache
+C:\Users\lalo_\Desktop\SITIC\AcademiaSITIC2024\Exercises\obj\Debug\net5.0\Exercises.AssemblyInfo.cs
+C:\Users\lalo_\Desktop\SITIC\AcademiaSITIC2024\Exercises\obj\Debug\net5.0\Exercises.csproj.CoreCompileInputs.cache
+C:\Users\lalo_\Desktop\SITIC\AcademiaSITIC2024\Exercises\obj\Debug\net5.0\Exercises.sourcelink.json
+C:\Users\lalo_\Desktop\SITIC\AcademiaSITIC2024\Exercises\obj\Debug\net5.0\Exercises.dll
+C:\Users\lalo_\Desktop\SITIC\AcademiaSITIC2024\Exercises\obj\Debug\net5.0\refint\Exercises.dll
+C:\Users\lalo_\Desktop\SITIC\AcademiaSITIC2024\Exercises\obj\Debug\net5.0\Exercises.pdb
+C:\Users\lalo_\Desktop\SITIC\AcademiaSITIC2024\Exercises\obj\Debug\net5.0\Exercises.genruntimeconfig.cache
+C:\Users\lalo_\Desktop\SITIC\AcademiaSITIC2024\Exercises\obj\Debug\net5.0\ref\Exercises.dll
