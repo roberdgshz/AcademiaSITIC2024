@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\lalo_\\Desktop\\SITIC\\AcademiaSITIC2024\\Actividad Extra\\CuentasBancarias\u0026Tranferencias\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{560178C5-9968-48F7-A2FD-5D0FBF5CF022}|CuentasBancarias\u0026Tranferencias.csproj|c:\\users\\lalo_\\desktop\\sitic\\academiasitic2024\\actividad extra\\cuentasbancarias\u0026tranferencias\\movimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560178C5-9968-48F7-A2FD-5D0FBF5CF022}|CuentasBancarias\u0026Tranferencias.csproj|solutionrelative:movimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560178C5-9968-48F7-A2FD-5D0FBF5CF022}|CuentasBancarias\u0026Tranferencias.csproj|c:\\users\\lalo_\\desktop\\sitic\\academiasitic2024\\actividad extra\\cuentasbancarias\u0026tranferencias\\cuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560178C5-9968-48F7-A2FD-5D0FBF5CF022}|CuentasBancarias\u0026Tranferencias.csproj|solutionrelative:cuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560178C5-9968-48F7-A2FD-5D0FBF5CF022}|CuentasBancarias\u0026Tranferencias.csproj|c:\\users\\lalo_\\desktop\\sitic\\academiasitic2024\\actividad extra\\cuentasbancarias\u0026tranferencias\\registros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560178C5-9968-48F7-A2FD-5D0FBF5CF022}|CuentasBancarias\u0026Tranferencias.csproj|solutionrelative:registros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560178C5-9968-48F7-A2FD-5D0FBF5CF022}|CuentasBancarias\u0026Tranferencias.csproj|c:\\users\\lalo_\\desktop\\sitic\\academiasitic2024\\actividad extra\\cuentasbancarias\u0026tranferencias\\ejercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560178C5-9968-48F7-A2FD-5D0FBF5CF022}|CuentasBancarias\u0026Tranferencias.csproj|solutionrelative:ejercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{560178C5-9968-48F7-A2FD-5D0FBF5CF022}|CuentasBancarias\u0026Tranferencias.csproj|c:\\users\\lalo_\\desktop\\sitic\\academiasitic2024\\actividad extra\\cuentasbancarias\u0026tranferencias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{560178C5-9968-48F7-A2FD-5D0FBF5CF022}|CuentasBancarias\u0026Tranferencias.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560178C5-9968-48F7-A2FD-5D0FBF5CF022}|CuentasBancarias\u0026Tranferencias.csproj|c:\\users\\lalo_\\desktop\\sitic\\academiasitic2024\\actividad extra\\cuentasbancarias\u0026tranferencias\\bancos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560178C5-9968-48F7-A2FD-5D0FBF5CF022}|CuentasBancarias\u0026Tranferencias.csproj|solutionrelative:bancos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560178C5-9968-48F7-A2FD-5D0FBF5CF022}|CuentasBancarias\u0026Tranferencias.csproj|c:\\users\\lalo_\\desktop\\sitic\\academiasitic2024\\actividad extra\\cuentasbancarias\u0026tranferencias\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560178C5-9968-48F7-A2FD-5D0FBF5CF022}|CuentasBancarias\u0026Tranferencias.csproj|solutionrelative:clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560178C5-9968-48F7-A2FD-5D0FBF5CF022}|CuentasBancarias\u0026Tranferencias.csproj|c:\\users\\lalo_\\desktop\\sitic\\academiasitic2024\\actividad extra\\cuentasbancarias\u0026tranferencias\\monedas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560178C5-9968-48F7-A2FD-5D0FBF5CF022}|CuentasBancarias\u0026Tranferencias.csproj|solutionrelative:monedas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560178C5-9968-48F7-A2FD-5D0FBF5CF022}|CuentasBancarias\u0026Tranferencias.csproj|c:\\users\\lalo_\\desktop\\sitic\\academiasitic2024\\actividad extra\\cuentasbancarias\u0026tranferencias\\cambios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560178C5-9968-48F7-A2FD-5D0FBF5CF022}|CuentasBancarias\u0026Tranferencias.csproj|solutionrelative:cambios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +54,117 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ejercicios.cs",
+              "DocumentMoniker": "C:\\Users\\lalo_\\Desktop\\SITIC\\AcademiaSITIC2024\\Actividad Extra\\CuentasBancarias\u0026Tranferencias\\Ejercicios.cs",
+              "RelativeDocumentMoniker": "Ejercicios.cs",
+              "ToolTip": "C:\\Users\\lalo_\\Desktop\\SITIC\\AcademiaSITIC2024\\Actividad Extra\\CuentasBancarias\u0026Tranferencias\\Ejercicios.cs",
+              "RelativeToolTip": "Ejercicios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T20:45:20.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registros.cs",
+              "DocumentMoniker": "C:\\Users\\lalo_\\Desktop\\SITIC\\AcademiaSITIC2024\\Actividad Extra\\CuentasBancarias\u0026Tranferencias\\Registros.cs",
+              "RelativeDocumentMoniker": "Registros.cs",
+              "ToolTip": "C:\\Users\\lalo_\\Desktop\\SITIC\\AcademiaSITIC2024\\Actividad Extra\\CuentasBancarias\u0026Tranferencias\\Registros.cs",
+              "RelativeToolTip": "Registros.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:44:21.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cuentas.cs",
+              "DocumentMoniker": "C:\\Users\\lalo_\\Desktop\\SITIC\\AcademiaSITIC2024\\Actividad Extra\\CuentasBancarias\u0026Tranferencias\\Cuentas.cs",
+              "RelativeDocumentMoniker": "Cuentas.cs",
+              "ToolTip": "C:\\Users\\lalo_\\Desktop\\SITIC\\AcademiaSITIC2024\\Actividad Extra\\CuentasBancarias\u0026Tranferencias\\Cuentas.cs",
+              "RelativeToolTip": "Cuentas.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAYwMEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:42:50.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Movimientos.cs",
+              "DocumentMoniker": "C:\\Users\\lalo_\\Desktop\\SITIC\\AcademiaSITIC2024\\Actividad Extra\\CuentasBancarias\u0026Tranferencias\\Movimientos.cs",
+              "RelativeDocumentMoniker": "Movimientos.cs",
+              "ToolTip": "C:\\Users\\lalo_\\Desktop\\SITIC\\AcademiaSITIC2024\\Actividad Extra\\CuentasBancarias\u0026Tranferencias\\Movimientos.cs",
+              "RelativeToolTip": "Movimientos.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAwwMAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:44:15.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cambios.cs",
+              "DocumentMoniker": "C:\\Users\\lalo_\\Desktop\\SITIC\\AcademiaSITIC2024\\Actividad Extra\\CuentasBancarias\u0026Tranferencias\\Cambios.cs",
+              "RelativeDocumentMoniker": "Cambios.cs",
+              "ToolTip": "C:\\Users\\lalo_\\Desktop\\SITIC\\AcademiaSITIC2024\\Actividad Extra\\CuentasBancarias\u0026Tranferencias\\Cambios.cs",
+              "RelativeToolTip": "Cambios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:43:56.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Monedas.cs",
+              "DocumentMoniker": "C:\\Users\\lalo_\\Desktop\\SITIC\\AcademiaSITIC2024\\Actividad Extra\\CuentasBancarias\u0026Tranferencias\\Monedas.cs",
+              "RelativeDocumentMoniker": "Monedas.cs",
+              "ToolTip": "C:\\Users\\lalo_\\Desktop\\SITIC\\AcademiaSITIC2024\\Actividad Extra\\CuentasBancarias\u0026Tranferencias\\Monedas.cs",
+              "RelativeToolTip": "Monedas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:44:08.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\lalo_\\Desktop\\SITIC\\AcademiaSITIC2024\\Actividad Extra\\CuentasBancarias\u0026Tranferencias\\Clientes.cs",
+              "RelativeDocumentMoniker": "Clientes.cs",
+              "ToolTip": "C:\\Users\\lalo_\\Desktop\\SITIC\\AcademiaSITIC2024\\Actividad Extra\\CuentasBancarias\u0026Tranferencias\\Clientes.cs",
+              "RelativeToolTip": "Clientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:43:45.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bancos.cs",
+              "DocumentMoniker": "C:\\Users\\lalo_\\Desktop\\SITIC\\AcademiaSITIC2024\\Actividad Extra\\CuentasBancarias\u0026Tranferencias\\Bancos.cs",
+              "RelativeDocumentMoniker": "Bancos.cs",
+              "ToolTip": "C:\\Users\\lalo_\\Desktop\\SITIC\\AcademiaSITIC2024\\Actividad Extra\\CuentasBancarias\u0026Tranferencias\\Bancos.cs",
+              "RelativeToolTip": "Bancos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:43:32.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lalo_\\Desktop\\SITIC\\AcademiaSITIC2024\\Actividad Extra\\CuentasBancarias\u0026Tranferencias\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\lalo_\\Desktop\\SITIC\\AcademiaSITIC2024\\Actividad Extra\\CuentasBancarias\u0026Tranferencias\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBsAAACEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T00:01:38.769Z",
               "EditorCaption": ""

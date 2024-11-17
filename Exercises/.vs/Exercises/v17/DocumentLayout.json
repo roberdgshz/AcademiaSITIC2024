@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\lalo_\\Desktop\\SITIC\\AcademiaSITIC2024\\Exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE06CFFC-64BE-4926-91E1-58A5AA858A55}|Exercises.csproj|c:\\users\\lalo_\\desktop\\sitic\\academiasitic2024\\exercises\\errorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE06CFFC-64BE-4926-91E1-58A5AA858A55}|Exercises.csproj|solutionrelative:errorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE06CFFC-64BE-4926-91E1-58A5AA858A55}|Exercises.csproj|c:\\users\\lalo_\\desktop\\sitic\\academiasitic2024\\exercises\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE06CFFC-64BE-4926-91E1-58A5AA858A55}|Exercises.csproj|solutionrelative:list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BE06CFFC-64BE-4926-91E1-58A5AA858A55}|Exercises.csproj|c:\\users\\lalo_\\desktop\\sitic\\academiasitic2024\\exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE06CFFC-64BE-4926-91E1-58A5AA858A55}|Exercises.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE06CFFC-64BE-4926-91E1-58A5AA858A55}|Exercises.csproj|c:\\users\\lalo_\\desktop\\sitic\\academiasitic2024\\exercises\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE06CFFC-64BE-4926-91E1-58A5AA858A55}|Exercises.csproj|solutionrelative:methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06CFFC-64BE-4926-91E1-58A5AA858A55}|Exercises.csproj|c:\\users\\lalo_\\desktop\\sitic\\academiasitic2024\\exercises\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE06CFFC-64BE-4926-91E1-58A5AA858A55}|Exercises.csproj|solutionrelative:list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06CFFC-64BE-4926-91E1-58A5AA858A55}|Exercises.csproj|c:\\users\\lalo_\\desktop\\sitic\\academiasitic2024\\exercises\\errorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE06CFFC-64BE-4926-91E1-58A5AA858A55}|Exercises.csproj|solutionrelative:errorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,45 +34,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ErrorHandler.cs",
               "DocumentMoniker": "C:\\Users\\lalo_\\Desktop\\SITIC\\AcademiaSITIC2024\\Exercises\\ErrorHandler.cs",
               "RelativeDocumentMoniker": "ErrorHandler.cs",
               "ToolTip": "C:\\Users\\lalo_\\Desktop\\SITIC\\AcademiaSITIC2024\\Exercises\\ErrorHandler.cs",
               "RelativeToolTip": "ErrorHandler.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAAwHkAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAAHkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T19:22:07.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T19:22:07.294Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "List.cs",
               "DocumentMoniker": "C:\\Users\\lalo_\\Desktop\\SITIC\\AcademiaSITIC2024\\Exercises\\List.cs",
               "RelativeDocumentMoniker": "List.cs",
               "ToolTip": "C:\\Users\\lalo_\\Desktop\\SITIC\\AcademiaSITIC2024\\Exercises\\List.cs",
               "RelativeToolTip": "List.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAQwAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T16:42:09.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T16:42:09.324Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Methods.cs",
               "DocumentMoniker": "C:\\Users\\lalo_\\Desktop\\SITIC\\AcademiaSITIC2024\\Exercises\\Methods.cs",
               "RelativeDocumentMoniker": "Methods.cs",
               "ToolTip": "C:\\Users\\lalo_\\Desktop\\SITIC\\AcademiaSITIC2024\\Exercises\\Methods.cs",
               "RelativeToolTip": "Methods.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T19:45:25.846Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lalo_\\Desktop\\SITIC\\AcademiaSITIC2024\\Exercises\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -80,7 +78,8 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T18:13:06.447Z"
+              "WhenOpened": "2024-09-21T18:13:06.447Z",
+              "EditorCaption": ""
             }
           ]
         }
