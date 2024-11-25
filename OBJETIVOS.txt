@@ -1,9 +1,0 @@
-OBJETIVOS:
--Controlar versiones
--Elaborar proyectos
--Desarrollar habilidades en la creación de interfaces dinámicas y responsivas
--Gestionar bases de datos y aplicar fundamentos prácticos para el manejo de datos
-
-WI-FI
-BecariosSITIC
-Becarios2024
