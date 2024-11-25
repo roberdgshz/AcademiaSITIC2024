@@ -29,8 +29,6 @@ namespace CuentasBancarias_Tranferencias
                 Console.WriteLine("¿Que desea hacer?");
                 Console.WriteLine("1.- Mostrar Registros");
                 Console.WriteLine("2.- Buscar registro");
-                //Console.WriteLine("3.- Agregar registro");
-                //Console.WriteLine("4.- Eliminar registro");
                 Console.WriteLine("3.- Volver");
                 Console.WriteLine("Escriba el número de la opción que desee:");
                 try
@@ -57,28 +55,6 @@ namespace CuentasBancarias_Tranferencias
                         break;
                     case 3:
                         break;
-                    /*case 55555:
-                        Console.WriteLine("registrosaldo");
-                        float rs = Convert.ToSingle(Console.ReadLine());
-
-                        Console.WriteLine("registroidcliente");
-                        long ridc = Convert.ToInt64(Console.ReadLine());
-
-                        Console.WriteLine("registroidmovimiento");
-                        long ridm = Convert.ToInt64(Console.ReadLine());
-
-                        Console.WriteLine("registrobancoclave");
-                        string rbc = Convert.ToString(Console.ReadLine());
-
-                        Console.WriteLine("registrocuentaclave");
-                        long rcc  = Convert.ToInt64(Console.ReadLine());
-
-                        AgregarRegistro(rs, ridc, ridm, rbc, rcc);
-                        break;
-                    case 666666:
-                        string id2 = Console.ReadLine();
-                        BorrarRegistro(id2);
-                        break;*/ //Esto solo fue para pruebas!
                     default: Console.WriteLine("Elija una opción disponible.");
                         break;
                 }

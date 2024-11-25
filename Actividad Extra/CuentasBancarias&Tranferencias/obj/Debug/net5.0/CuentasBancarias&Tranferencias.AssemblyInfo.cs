@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CuentasBancarias&Tranferencias")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31581ebb315e3ecf9b013060b06fcd78bd6374f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13d6ee96bc0b02c36d4f40b1f56267321eea7b7c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CuentasBancarias&Tranferencias")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CuentasBancarias&Tranferencias")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

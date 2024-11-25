@@ -30,7 +30,6 @@ namespace CuentasBancarias_Tranferencias
                 Console.WriteLine("1.- Mostrar Movimiento");
                 Console.WriteLine("2.- Buscar Movimiento");
                 Console.WriteLine("3.- Realizar Movimiento");
-                //Console.WriteLine("4.- Eliminar movimiento");
                 Console.WriteLine("4.- Volver");
                 Console.WriteLine("Escriba el número de la opción que desee:");
                 try
@@ -108,12 +107,6 @@ namespace CuentasBancarias_Tranferencias
                         break;
                     case 4:
                         break;
-                    /*case 4444:
-                        Console.WriteLine("Escriba el ID del movimiento que desee eliminar:");
-                        this.id = Console.ReadLine().ToString();
-
-                        BorrarMovimiento(id);
-                        break;*/ //Esto es para pruebas!
                     default:
                         Console.WriteLine("Elija una opción disponible.");
                         break;
